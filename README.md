@@ -1,6 +1,6 @@
 # Your Personal Brand
 
-![YourPersonalBrand](assets/yourbrand.jpg)
+![YourPersonalBrand](assets/yourbrand.png)
 
 This repo is all about preparing you as well as possible for landing your first developer job. 
 
