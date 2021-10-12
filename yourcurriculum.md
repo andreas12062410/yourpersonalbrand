@@ -1,4 +1,4 @@
-![YourCurriculum](assets/cv.jpg)
+![YourCurriculum](assets/cv.png)
 
 # Your CV (or resume)
 
