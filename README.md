@@ -2,11 +2,11 @@
 
 ![YourPersonalBrand](assets/yourbrand-1.png)
 
-This repo is all about preparing you as well as possible for landing your first developer job. 
+*This repo is all about preparing you as well as possible for landing your first developer job.* 
 
-Technical and soft skills are incredibly important to get and keep a job or internship. But before you get one, you will have to get the attention of a company or recruiter, so that they give you an opportunity to interview with them.
+**Technical and soft skills are incredibly important to get and keep a job or internship. But before you get one, you will have to get the attention of a company or recruiter, so that they give you an opportunity to interview with them.**
 
-Together with our graduates we approach companies for internship opportunities. However, for you to be invited for an interview, companies need to be interested in your profile. For that, it is important that you have a professional personal brand.
+Sometimes, companies contact us and we are able to recommend you directly, but most of the time you will have to compete with the all the other applicants for the job. So for you to be invited for an interview, companies need to be interested in your profile. For that, it is important that you have a professional **personal brand.**
 
 **Your personal brand is usually comprised of:**
 - [Your CV or Resume](yourcurriculum.md)
