@@ -20,7 +20,7 @@ Keep in mind that the HYF team is always available to help you improve your CV. 
 
 **- Keep it up to date:** Your resume should include your most impressive projects and accomplishments. For that reason, we suggest updating your CV every time to create a new amazing project or take part in an internship. Keep in mind that the better the projects, the more chances you will have to be invited to take part in an interview.
 
-**- Use a balance of soft and hard skills:** It is important to include a mix of both hard and soft skills on your resume, as when combined, they make you a highly desirable candidate. In many instances, soft skills can help enrich your hard skills—for example, your hard Javascript skills will be supported by an ability to collaborate as a team, problem solve and meet deadlines. 
+**- Use a balance of interpersonal skills and technical skills:** It is important to include a mix of both technical skills (sometimes called "hard skills") and interpersonal skills (sometimes called "soft skills") on your resume, as when combined, they make you a highly desirable candidate. In many instances, interpersonal skills can help enrich your technical skills — for example, your Javascript skills will be supported by an ability to collaborate as a team, problem solve and meet deadlines. 
 
 **- Mention accomplishments and make it measurable:** In addition to your strengths and responsibilities in your resume, try backing them up with real work achievements. Focus on how that activity resulted in a positive difference for that employer, team or user. You should also try to quantify your accomplishments with numbers, providing context whenever possible
 
