@@ -36,16 +36,16 @@ Keep in mind that the HYF team is always available to help you improve your CV. 
 
 ## 2. The Structure of a HYF Graduate’s CV:
 
-While there are no exact ways of doing a resume, there are some best practices we’ve seen have worked well for our graduates. Your resume needs to be professional looking and well-organized. It should also link to you other components of your personal brand such as your GitHub and LinkedIn. 
+While there are no exact ways of doing a resume, there are some best practices we’ve seen have worked well for our graduates. Your CV needs to be professional looking and well-organized. It should also link to your GitHub and LinkedIn. 
 
 There are seven main sections you need to incorporate in your resume. Each one is critical and serves its own purpose when you're applying for an internship:
 
 ![cvsections](assets/cv-sections.jpg)
 
 1. Your photo and contact information
-2. Your Bio
-3. Your skills (soft and hard)
-4. Your experience (including your graduation and Fellowship projects)
+2. Your BIO text
+3. Your skills (technical and interpersonal)
+4. Your experience (including your Final Project)
 5. Your education (including HackYourFuture)
 6. Your (additional) projects
 7. Other information including languages and hobbies
@@ -54,7 +54,7 @@ Each of these sections should be clearly separated with easy to read headers. Le
 
 ### 1. Your Photo and contact information:
 
-Every CV should include your full name, your position (being full-stack, frontend or backend), your city and country, your email, your phone number, your GitHub (with a link) and your LinkedIn (also linked). Here you can also add your portfolio if you have one.
+Every CV should include your full name, your position (being full-stack, frontend or backend), your city and country, your email, your phone number, your GitHub (with a link) and your LinkedIn (also linked). Here you can also add your portfolio, if you have one.
 
 While there are a lot of mixed thoughts about whether to include or not your (professional) picture, we strongly advise it. 
 
@@ -76,32 +76,32 @@ This section enables recruiters to quickly scan your resume to see what programm
 
 You should only list the technical skills that you’re highly proficient in. Don’t list skills that you’re only familiar with as this may backfire once the interview rolls around. You could potentially lose credibility if an interviewer starts asking questions about a programming language you haven’t mastered.
 
-HTML, CSS, Javascript, MySQL, Nodejs, Git and Reactjs are the most common ones after HackYourFuture. In some cases you can also add ExpressJS, Elastic Search, AWS or other skills that you have learned during your graduation or fellowship projects.
+HTML, CSS, Javascript, MySQL, Nodejs, Git and Reactjs are the most common ones after HackYourFuture. In some cases you can also add ExpressJS, Elastic Search, Firebase, KnexJS, Swagger, Storyboook, AWS or other skills that you have learned during your final project.
 
-When it comes to soft skills, be sure to include only those 2, 3 or 4  that you are particularly good at and that you can back up with great examples during your interview. Some of these soft skills could include: Empathy, communication, teamwork, problem solving, grit, patience, open mindedness, accountability, creativity and time management. Read more about these [here](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7).
+When it comes to interpersonal skills (soft skills), be sure to include only those 2, 3 or 4  that you are particularly good at and that you can back up with great examples during your interview. Some of these soft skills could include: Empathy, communication, teamwork, problem solving, grit, patience, open mindedness, accountability, creativity and time management. Read more about these [here](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7).
 
 
-### 4. Your experience (including your graduation and Fellowship projects)
+### 4. Your experience (including your final project)
 
 Besides adding the company name, your position and date (assuming that the experience is relevant) is good to include a short description of your function and your specific accomplishments or contributions.
 
-Be sure to also include your graduation and Fellowship projects in this section (with links to the deployed websites) as they are probably your most web development related experiences! Here some examples:
+Be sure to also include your final project in this section (with links to the deployed website, or [Feats page](https://www.feats.co/search?q=%22hackyourfuture%22)) as they are probably your most web development related experiences! Here some examples:
 
 **HackYourSocial at HackYourFuture | Jan 2019 | Link**<br>
 Created a clean, and mobile-friendly web app using NodeJS, ReactJS, Redux and MongoDB to help travelers connect with each other and exchange tips. Implemented fetching of data through APIs and geolocation, authentication & authorization and client server model.
 
-**TrackIt App, Fellowship | Mar 2020 | Link**<br>
-Responsive Full-stack app developed using the MERN stack that allows users to track their personal assets (such as stocks and cryptocurrencies), financial gains and losses by bringing information from different public APIs and other sources to one central dashboard.
+**Kaospilot Toolbox at HackYourFuture | Jun 2022 | Link**<br>
+Responsive Full-stack app developed for client Kaospilot using the MERN stack that allows users to search, filter and sort through a variety of facilitation tools developed by Kaospilot and other educational institutions, as well as user authentication and an admin console to add new tools. 
 
 ### 5. Your education (including HackYourFuture)
 
-The educational section of your resume is still an important aspect, however, you shouldn’t go into too much detail. The more experience you have, the less you need to focus on your education section. You need to list your university, degree obtained, and dates you attended in your education section. As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
+The educational section of your resume is still an important aspect, however, you shouldn’t go into too much detail. The more experience you have, the less you need to focus on your education section. You need to list your school, college or university degree obtained, and dates you attended in your education section. As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
-**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | [Curriculum](https://github.com/HackYourFuture/curriculum)**<br>
-7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
+**HackYourFuture, Web Development | Jan 2021 - Aug 2021 | [Curriculum](https://github.com/HackYourFuture/curriculum)**<br>
+8-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
 
-**Web Development at HackYourFuture | Jan 2020 - Aug 2020**<br>
-A 28-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum [here](https://github.com/HackYourFuture/curriculum).
+**Web Development at HackYourFuture | Jan 2022 - Aug 2022**<br>
+A 34-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum [here](https://github.com/HackYourFuture/curriculum).
 
 ### 6. Your (additional) projects
 
@@ -123,9 +123,9 @@ Give interviewers more information to get to know you better and have something 
 
 When it comes to languages, we suggest you add your native language and english of course, and if you know any other language such as dutch, highlight your level: Intermediate, basic, etc. Just like this:
 
-**Languages: English, Spanish, Dutch (intermediate)**
+**Languages: English, Arabic, Danish (intermediate)**
 
-In this case, we do not add native or proficiency to English or Spanish given that in this case Spanish is the applicant’s native language and English is simply expected to be at a working proficiency.
+In this case, we do not add native or proficiency to English or Spanish given that in this case Arabic is the applicant’s native language and English is simply expected to be at a working proficiency.
 
 ## 3. The HackYourFuture CV template pack
 
@@ -142,15 +142,12 @@ Once your CV is ready, set the editing rights in Google Slides to "Anyone with t
 
 ![permission](assets/permission.gif)
 
-And then submit the URL to the HYF team by completing [this form](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
+And then submit the URL to the HYF team via Slack. We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
 
-***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time we share it with a prospective employer, we share the most up to date version of your CV.
+***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time you need feedback we can work from an up-to-date version.
 
-***EVEN MORE IMPORTANT:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with him/her. Also know that the HYF team is always available to connect with your client manager if necessary. If so, just reach out to us on Slack!
+***EVEN MORE IMPORTANT:*** During and after HackYourFuture, it is crucial that you keep us informed with your progress and what you are up to. Also know that the HYF team is always available to connect with your case worker or contact person in the Kommune or at your Job Center, if necessary. If so, just reach out to us on Slack!
 
-## 5. Bonus: The Cover Letter (Coming soon!)
-
-***Done with your CV?*** Time to [polish on your GitHub Profile!](yourgithub.md)
 
 
 
