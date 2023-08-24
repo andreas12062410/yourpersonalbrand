@@ -87,33 +87,33 @@ Besides adding the company name, your position and date (assuming that the exper
 
 Be sure to also include your final project in this section (with links to the deployed website, or [Feats page](https://www.feats.co/search?q=%22hackyourfuture%22)) as they are probably your most web development related experiences! Here some examples:
 
-**HackYourSocial at HackYourFuture | Jan 2019 | Link**<br>
+**HackYourSocial at HackYourFuture | Jan 2022 | Link**<br>
 Created a clean, and mobile-friendly web app using NodeJS, ReactJS, Redux and MongoDB to help travelers connect with each other and exchange tips. Implemented fetching of data through APIs and geolocation, authentication & authorization and client server model.
 
-**Kaospilot Toolbox at HackYourFuture | Jun 2022 | Link**<br>
+**Kaospilot Toolbox at HackYourFuture | Jun 2023 | Link**<br>
 Responsive Full-stack app developed for client Kaospilot using the MERN stack that allows users to search, filter and sort through a variety of facilitation tools developed by Kaospilot and other educational institutions, as well as user authentication and an admin console to add new tools. 
 
 ### 5. Your education (including HackYourFuture)
 
 The educational section of your resume is still an important aspect, however, you shouldn’t go into too much detail. The more experience you have, the less you need to focus on your education section. You need to list your school, college or university degree obtained, and dates you attended in your education section. As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
-**HackYourFuture, Web Development | Jan 2021 - Aug 2021 | [Curriculum](https://github.com/HackYourFuture/curriculum)**<br>
+**HackYourFuture, Web Development | Jan 2021 - Aug 2021 | [Curriculum](https://github.com/HackYourFuture-CPH/curriculum)**<br>
 8-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
 
-**Web Development at HackYourFuture | Jan 2022 - Aug 2022**<br>
+**Web Development at HackYourFuture | Jan 2023 - Aug 2023**<br>
 A 34-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum [here](https://github.com/HackYourFuture/curriculum).
 
 ### 6. Your (additional) projects
 
 Companies hiring interns from the HackYourFuture program know that you don’t have years of experience working as a web developer. However, they want to know you work hard, that you are eager to grow, that you have an eye for detail (especially if you want to be a frontend or full stack developer) and that you never stop learning. A way to show just that is by adding the most challenging and beautiful projects you’ve worked on during and after the program. Be sure to provide a link to the deployed version of the project and another link to the source code. Here some beautiful examples:
 
-**Weather app | Jan 2020 | [Demo](https://raw.githack.com/Nazeh/weather-app/master/dist/index.html) | [Source](https://github.com/Nazeh/weather-app)**<br>
+**Weather app | Jan 2021 | [Demo](https://raw.githack.com/Nazeh/weather-app/master/dist/index.html) | [Source](https://github.com/Nazeh/weather-app)**<br>
 Clean, and mobile-friendly web app built using plain JS, Webpack, and Babel. Implemented fetching of Open-weather, and geolocation data. 
 
-**Todo app | Jan 2020 | [Demo](https://tv2z-app.herokuapp.com/) | [Source](https://github.com/salih18/MERN-Todo-App)**<br>
+**Todo app | Jan 2021 | [Demo](https://tv2z-app.herokuapp.com/) | [Source](https://github.com/salih18/MERN-Todo-App)**<br>
 Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs allowing users to register and save their data, tag their activities and more.
 
-**YouTube UI Clone | Jan 2020 | [Demo](https://nazeh.github.io/youtube_video_player_page/) | [Source](https://github.com/Nazeh/youtube_video_player_page)**
+**YouTube UI Clone | Jan 2021 | [Demo](https://nazeh.github.io/youtube_video_player_page/) | [Source](https://github.com/Nazeh/youtube_video_player_page)**
 
 ***(!)Be sure that the quality of the projects shared in this section are representative of your skills as a developer! Recruiters will judge your work, so be sure there projects show the best you can do! Needless to say, be also sure that each project follows the best practices on GitHub, like including a readme file, etc***
 
@@ -131,7 +131,7 @@ In this case, we do not add native or proficiency to English or Spanish given th
 
 To make your job easier, we’ve created a set of templates with sections tailored to the needs of a HackYourFuture student. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
 
-To access the templates [click here](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
+To access the templates [click here](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/edit?usp=sharing/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
 <a href="https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco" rel="VideoTutorial">![Video](assets/video.jpg)</a>
 [Link to Video tutorial](https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco)
