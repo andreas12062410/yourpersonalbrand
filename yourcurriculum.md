@@ -131,7 +131,7 @@ In this case, we do not add native or proficiency to English or Spanish given th
 
 To make your job easier, we’ve created a set of templates with sections tailored to the needs of a HackYourFuture student. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
 
-To access the templates [click here](https://docs.google.com/presentation/d/1N1qxLclHbbDLCCQAXprUXyz_AryNm45Hqce4kZemr9w/edit?usp=sharing/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
+To access the templates [click here](https://docs.google.com/presentation/d/1hcKvyIOLnXtDXqEu554_xaC7EzuRAPNTqYbIDMAvoQA/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
 <a href="https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco" rel="VideoTutorial">![Video](assets/video.jpg)</a>
 [Link to Video tutorial](https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco)
