@@ -18,10 +18,6 @@ To be sure your GitHub profile is attractive to recruiters, in this guide we wil
 
 ## 1. Five tips on how to set up your GitHub profile 
 
-### 0. Before we start!
-
-Make sure your activity overview registers contributions to private repositories, so you don't appear inactive when you're actually hard at work (but in a private repo). This is how to do it: ![YourGitHubProfile](assets/private-repo.jpg)
-
 ### 1. Start by building a great-looking homepage
 
 Your GitHub’s profile homepage is one of the first things recruiters will look at when they are reviewing your CV. Because of this, your profile needs to look clean and be a good representation of who you are as a developer. Be sure to have a professional picture, followed by a short bio, and links to any other relevant websites that showcase what you do: your portfolio (if you have one and it looks great), your StackOverflow and CodePen links, etc.
@@ -34,6 +30,11 @@ Not less important, build a Stunning README page and be sure recruiters can easi
 
 - [Awesome Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 
+#### Pro tip:
+
+Make sure your activity overview registers contributions to private repositories, so you don't appear inactive when you're actually hard at work (but in a private repo). This is how to do it: 
+
+<img src="assets/private-repo.png" alt="private contributions" width="400"/>
 
 ### 2. Remove zero contributed forks
 One thing many developers do is forking public repositories and then sending pull requests to the original repo. What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
