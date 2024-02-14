@@ -1,10 +1,10 @@
 # Your GitHub Profile
 
-![YourGitHubProfile](assets/hyfgh2.jpg)
+![YourGitHubProfile](assets/hyfgh1.png)
 
 Your GitHub profile tells people (including recruiters) the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. While designers and artists use a creative portfolio to showcase past work and sell themselves, GitHub profiles are portfolios for programmers. 
 
-In the image above, the person on the left has clearly a LOT more experience than the one on the right: He organises his code better, his repos are well documented and include visuals...In short, your GitHub profile says a lot about you. Besides showing your actual code, your profile gives insights into:
+In the image above, the person on the left clearly has a LOT more experience than the one on the right: He organises his code better, his repos are well documented and include visuals...In short, your GitHub profile says a lot about you. Besides showing your actual code, your profile gives insights into:
 
 - How you work and collaborate
 - How much effort you put into coding (and how often you commit)
@@ -13,12 +13,16 @@ In the image above, the person on the left has clearly a LOT more experience tha
 To be sure your GitHub profile is attractive to recruiters, in this guide we will share with you: 
 
 1. Five tips on how to set up your GitHub profile to showcase your best work to potential recruiters
-2. The most important GitHub best practices for you to always keep top of mind.
-3. Inspiring GitHub profiles to get some ideas to pump your own!
+2. The most important GitHub best practices for you to always stay top of mind.
+3. Inspiring GitHub profiles to get some ideas to improve your own!
 
 ## 1. Five tips on how to set up your GitHub profile 
 
-### 1. Start by building a great looking homepage
+### 0. Before we start!
+
+Make sure your activity overview registers contributions to private repositories, so you don't appear inactive when you're actually hard at work (but in a private repo). This is how to do it: ![YourGitHubProfile](assets/private-repo.jpg)
+
+### 1. Start by building a great-looking homepage
 
 Your GitHub’s profile homepage is one of the first things recruiters will look at when they are reviewing your CV. Because of this, your profile needs to look clean and be a good representation of who you are as a developer. Be sure to have a professional picture, followed by a short bio, and links to any other relevant websites that showcase what you do: your portfolio (if you have one and it looks great), your StackOverflow and CodePen links, etc.
 
@@ -32,7 +36,7 @@ Not less important, build a Stunning README page and be sure recruiters can easi
 
 
 ### 2. Remove zero contributed forks
-One thing many developers do is forking public repositories and then sending pull requests to the original repo (like you do with your HYF homework or Repo). What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
+One thing many developers do is forking public repositories and then sending pull requests to the original repo. What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
 
 ### 3. Handpick your pinned repositories to showcase your best work
 The pinned repositories that appear at the top of your profile should showcase repositories that you want to highlight to the recruiter, which should be relevant and show work that has been done. Pick and pin your top three-six repositories that you want recruiters to see first. [Here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile) you can find the instructions on how to do that. 
