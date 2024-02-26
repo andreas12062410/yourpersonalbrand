@@ -33,30 +33,28 @@ If you are in doubts which images you can use for your background images, check 
 ### 5. Make your headline stand out
 Your headline is created when you add your positions to your profile. However, you can re-write it to either promote an area of expertise or to let your personality shine through. Here some simple ideas:
 
-- Full-stack web developer with a passion for React
-- Architect-turned-developer that loves solving problems and working in teams
-- <script> alert( 'Hello, world!' ); </script>
+- Frontend Developer | React | TypeScript | Nextjs
+- Architect-turned-developer who loves solving problems and working in teams
+- Software Developer & Chemical Engineer | JavaScript aficionado
 
-### 6. Add you Bio (or summary) 
-The About section of your profile expresses your mission, motivation, and skills to people who view your profile. Ideally, you should limit the text to one or two paragraphs while filling this section. For more tips on this check [your Bio section](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#2-your-bio) on the CV repo.
+### 6. Add your Bio (or summary) 
+The About section of your profile expresses your mission, motivation, and skills to people who view your profile. Ideally, you should limit the text to one or two paragraphs while filling this section. For more tips on this check [your Bio section](https://github.com/HackYourFuture-cph/yourpersonalbrand/blob/main/yourcurriculum.md#2-your-bio) on the CV repo.
 
 ### 7. Add all your relevant [work](https://www.linkedin.com/help/linkedin/answer/1646) and [education](https://www.linkedin.com/help/linkedin/answer/381) experiences
 You should keep the profile updated with all your professional experiences that align with your current career goals. You can also add media samples to provide quick access to your work portfolio. **Be sure that every experience listed on your cv is also part of your LinkedIn profile!***
 
 ### 8. Request recommendations from your connections
-[A recommendation](https://www.linkedin.com/help/linkedin/answer/96) is written to recognize or commend a connection, such as a colleague, business partner, or student. There’s no limit to the number of recommendations you can request for. Once you accept a recommendation written by a connection, it becomes visible to your network by default. If you’ve done a stellar job at a specific module or project, be sure to ask your HackYourFuture mentor to write a recommendation for you!
+[A recommendation](https://www.linkedin.com/help/linkedin/answer/96) is written to recognize or commend a connection, such as a colleague, business partner, or trainee. There’s no limit to the number of recommendations you can request for. Once you accept a recommendation written by a connection, it becomes visible to your network by default. If you’ve done a stellar job at a specific module or project, be sure to ask your HackYourFuture mentor to write a recommendation for you!
 
 ### 9. Add your skills and get endorsements
-Including specific skills on your LinkedIn profile is a great way to showcase your abilities to other members, such as your peers, colleagues, managers, and even recruiters. You can [add skills](https://www.linkedin.com/help/linkedin/answer/4976) such as Reactjs, Nodejs, Javascript...but also your soft skills. They're a simple and effective way of building your professional brand and engaging your network.
+Including specific skills on your LinkedIn profile is a great way to showcase your abilities to other members, such as your peers, colleagues, managers, and even recruiters. You can [add skills](https://www.linkedin.com/help/linkedin/answer/4976) such as Reactjs, Nodejs, Javascript... but also your soft/interpersonal skills. They're a simple and effective way of building your professional brand and engaging your network.
 
 Once you've added a skill to your profile, your skills can be validated by 1st-degree connections to reinforce their weighting. These are called [skill endorsements](https://www.linkedin.com/help/linkedin/answer/33125), which are different than recommendations. When a connection endorses your skills, it contributes to the strength of your profile, and increases the likelihood that you'll be discovered for opportunities related to the skills you possess.
 
 ### 10. Connect with people!
-Be sure to connect with your mentors, colleagues and staff at HackYourFuture. You can also add people that you meet at conferences for instance. What’s important here is that every time you add someone, you also add a note on why you are making that connection!
+Be sure to connect with your mentors, colleagues and staff at HackYourFuture. You can also add people that you meet at conferences for instance. What’s important here is that every time you add someone, you also **add a note** on why you are making that connection!
 
 
-If you want to dig even deeper into how to create a great LinkedIn profile, watch [this course](https://www.linkedin.com/learning/learning-linkedin-3) on LinkedIn Learning!
-
-***Now that you are finished with your CV, is a good time to start preparing for interviews! Check the [Interview Preparation Repo for HYF Graduates!](https://github.com/HackYourFuture/interviewpreparation)***
+***Now that you are finished with your CV & Linkedin profile, is a good time to start polishing your [GitHub profile](https://github.com/HackYourFuture-CPH/yourpersonalbrand/blob/main/yourgithub.md).**
 
 
